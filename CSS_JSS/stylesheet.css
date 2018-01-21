@@ -25,6 +25,8 @@ body {
 }
 .solution{
 	display: none;
+	text-align: left;
+	margin-left: 45%;
 }
 .solutionbutton{
 	position: relative;
