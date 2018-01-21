@@ -41,5 +41,4 @@ function solution(idbutton){
 	var idh = idbutton.getAttribute("id");
  	idbutton.style.display = "none" ;
  	idtext.style.display = "block";
-     alert("an error occured pls contact system admin #1");
  }
