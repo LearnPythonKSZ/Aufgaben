@@ -11,6 +11,10 @@ body {
     background: White;
 	color: yellow;
 }
+.codeaufgabe{
+	text-align: left;
+	margin-left: 48.6%;
+}
 .red {
 	color: red;
 	background-color: white;
