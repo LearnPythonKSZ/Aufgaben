@@ -13,7 +13,7 @@ function solution(idbutton){
  		var solutionbutton=document.getElementById("solutionbutton2");
  		var solutionspan=document.getElementById("solution2");
  		solutionbutton.style.width = "800px";
- 		solutionbutton.style.height = "100px";
+ 		solutionbutton.style.height = "150px";
  		solutionbutton.style.left="calc(50% - 400px)";
  		solutiontag.style.display="none";
  		solutionspan.style.display="inline";
