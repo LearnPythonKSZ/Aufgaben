@@ -7,7 +7,7 @@ function solution(idbutton){
  		solutionbutton.style.height = "100px";
  		solutionbutton.style.left="calc(50% - 400px)";
  		solutiontag.style.display="none";
- 		solutionspan.style.display="inline";
+ 		solutionspan.style.display="block";
  	}else if(idbutton.getAttribute("id")=="solutionbutton2"){
  		var solutiontag=document.getElementById("solutiontag2");
  		var solutionbutton=document.getElementById("solutionbutton2");
@@ -16,7 +16,7 @@ function solution(idbutton){
  		solutionbutton.style.height = "150px";
  		solutionbutton.style.left="calc(50% - 400px)";
  		solutiontag.style.display="none";
- 		solutionspan.style.display="inline";
+ 		solutionspan.style.display="block";
  	}else if(idbutton.getAttribute("id")=="solutionbutton3"){
 		var solutiontag=document.getElementById("solutiontag3");
  		var solutionbutton=document.getElementById("solutionbutton3");
@@ -25,7 +25,7 @@ function solution(idbutton){
  		solutionbutton.style.height = "100px";
  		solutionbutton.style.left="calc(50% - 400px)";
  		solutiontag.style.display="none";
- 		solutionspan.style.display="inline";
+ 		solutionspan.style.display="block";
 	}else if(idbutton.getAttribute("id")=="solutionbutton4"){
 		var solutiontag=document.getElementById("solutiontag4");
  		var solutionbutton=document.getElementById("solutionbutton4");
@@ -34,7 +34,7 @@ function solution(idbutton){
  		solutionbutton.style.height = "100px";
  		solutionbutton.style.left="calc(50% - 400px)";
  		solutiontag.style.display="none";
- 		solutionspan.style.display="inline";
+ 		solutionspan.style.display="block";
 	}
  }
  function help(idtext,idbutton){
