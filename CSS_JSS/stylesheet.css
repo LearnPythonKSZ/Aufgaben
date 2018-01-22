@@ -24,11 +24,11 @@ body {
 	font-size: 12px;
 }
 .solution{
+	position: relative;
 	display: none;
 	text-align: left;
 	margin-left: auto;
 	margin-right: auto;
-	width: 100%;
 }
 .solutionbutton{
 	position: relative;
